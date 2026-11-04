@@ -1,8 +1,6 @@
 # Đề tài 1: Hệ thống quản lý bán hàng và siêu thị mini
 
-Ứng dụng Java Swing (JDK 17 trở lên). Sinh viên: Bùi Nguyễn Minh Quân – MSSV 24150621
-                                                 Nguyễn Nam Bình - MSSV 24150604
-                                                 Hoàng Việt - MSSV 22130007
+Ứng dụng Java Swing (JDK 17 trở lên). Sinh viên: Bùi Nguyễn Minh Quân – MSSV 241506121 - Nguyễn Nam Bình - MSSV 24150604 - Hoàng Việt - MSSV 22130007 - Hồ Hưng Chí - MSSV 24150702
 Học phần: Lập trình hướng đối tượng – Lớp học phần 020100116801 – HKI 2026-2027
 
 ## Chạy chương trình
